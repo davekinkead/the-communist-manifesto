@@ -1,7 +1,7 @@
 
 
 
-# I. BOURGEOIS AND PROLETARIANS.[^1]
+# BOURGEOIS AND PROLETARIANS.[^1]
 
 The history of all hitherto existing society[^2] is the history of class struggles.
 

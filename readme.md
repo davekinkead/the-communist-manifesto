@@ -7,8 +7,8 @@
 1. [Preface](preface.md)
 2. [Bourgeois and Proletarians](chapter-1.md)
 3. [Proletarians and Communists](chapter-2.md)
-4. Socialist and Communist Literature
-5. Position of the Communists in Relation to the Various Existing Opposition Parties
+4. [Socialist and Communist Literature](chapter-3.md)
+5. [Position of the Communists in Relation to the Various Existing Opposition Parties](chapter-4.md)
 
 ## About this edition
 
