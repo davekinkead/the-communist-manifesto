@@ -104,7 +104,7 @@ We do not here refer to that literature which, in every great modern revolution,
 
 The first direct attempts of the proletariat to attain its own ends were made in times of universal excitement, when feudal society was being overthrown. These attempts necessarily failed, owing to the then undeveloped state of the proletariat, as well as to the absence of the economic conditions for its emancipation, conditions that had yet to be produced, and could be produced by the impending bourgeois epoch alone. The revolutionary literature that accompanied these first movements of the proletariat had necessarily a reactionary character. It inculcated universal asceticism and social leveling in its crudest form.
 
-The Socialist and Communist systems properly so-called, those of St. Simon, Fourier, Owen and others, spring into existence in the early undeveloped period, described above, of the struggle between proletariat and bourgeoisie (see section I. Bourgeoisie and Proletariat).
+The Socialist and Communist systems properly so-called, those of St. Simon, Fourier, Owen and others, spring into existence in the early undeveloped period, described above, of the struggle between proletariat and bourgeoisie (see section I. [Bourgeoisie and Proletariat](chapter-1.md)).
 
 The founders of these systems see, indeed, the class antagonisms, as well as the action of the decomposing elements in the prevailing form of society. But the proletariat, as yet in its infancy, offers to them the spectacle of a class without any historical initiative or any independent political movement.
 

@@ -1,4 +1,4 @@
-# POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES.
+# POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES
 
 [Section II.](chapter-2.md) has made clear the relations of the Communists to the existing working class parties, such as the Chartists in England and the Agrarian Reformers in America.
 
